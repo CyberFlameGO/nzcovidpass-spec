@@ -7,6 +7,6 @@
     "spec:update-example": "mkdir -p www/.well-known && cp spec/examples/valid/did.json www/.well-known/did.json && cp -r spec/contexts www && cp -r spec/examples www"
   },
   "devDependencies": {
-    "spec-up": "0.10.3"
+    "spec-up": "0.10.6"
   }
 }
